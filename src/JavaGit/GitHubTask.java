@@ -7,6 +7,7 @@ public class GitHubTask {
 
 		
 		System.out.println("First message from Person One");
+		System.out.println("I like summers");
 	}
 
 }
