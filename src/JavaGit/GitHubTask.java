@@ -6,7 +6,8 @@ public class GitHubTask {
 		// TODO Auto-generated method stub
 
 		
-		System.out.println("First message from Person One");
+		System.out.println("Message from Person One");
+		System.out.println("Message two from Person One");
 	}
 
 }
